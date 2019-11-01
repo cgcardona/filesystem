@@ -5,7 +5,7 @@
 Clone the repo
 
 ```
-git clone
+git clone https://github.com/cgcardona/filesystem.git
 ```
 
 ```
