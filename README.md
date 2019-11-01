@@ -22,7 +22,7 @@ Run the app
 
 ```
 cargo run
-   Compiling filesystem v0.1.0 (/Users/carloscardona/Sites/dev/rust-playground/filesystem)
+   Compiling filesystem v0.1.0 (/Users/username/rust-playground/filesystem)
     Finished dev [unoptimized + debuginfo] target(s) in 0.44s
      Running `target/debug/filesystem`
 `mkdir a`
